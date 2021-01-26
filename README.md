@@ -4,7 +4,7 @@ Creating and tracking daily workouts with the use of MongoDB.
 
 ## [Test out the hosted project!](https://guarded-forest-21718.herokuapp.com/?id=5fbed13cbcaaa10017fffa6e)
 
-![image](public/push-it-to-the-limit-screenshot.png)
+![image](./public/push-it-to-the-limit-screenshot.PNG)
 
 ## Getting Started
 
